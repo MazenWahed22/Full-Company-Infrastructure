@@ -47,3 +47,14 @@ This project simulates a **full company infrastructure** with **two branches (Ca
 * **Branch 2 (Alexandria)** → Router1, Switch + PCs + Server.
 * **ISP (Frame Relay)** → Provides WAN connectivity.
 * **Dynamic Routing (EIGRP)** → Ensures automatic route exchange.
+
+---
+  
+## 📜 Author
+**Mazen Wahed**  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mazen-wahed-260826320)  
+- 📧 mazenwahed538@gmail.com  
+
+
+
+
