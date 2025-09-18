@@ -50,11 +50,6 @@ It simulates a company with **two branches** (Cairo & Alexandria) connected usin
 
 ---
 
-## 📸 Screenshots
-*(Add topology and configuration screenshots here)*
-
----
-
 ## 🚀 How to Use
 1. Open the `.pkt` file in **Cisco Packet Tracer** (v8.x or later).
 2. Explore the network topology and configurations.
