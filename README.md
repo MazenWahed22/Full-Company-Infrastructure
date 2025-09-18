@@ -44,19 +44,6 @@ It simulates a company with **two branches** (Cairo & Alexandria) connected usin
 
 ---
 
-## 📂 Project Files
-- `.pkt` file: Cisco Packet Tracer project file containing full configuration
-- `README.md`: Project documentation (this file)
-
----
-
-## 🚀 How to Use
-1. Open the `.pkt` file in **Cisco Packet Tracer** (v8.x or later).
-2. Explore the network topology and configurations.
-3. Test VLAN segmentation, routing, ACLs, and connectivity.
-
----
-
 ## 📜 Author
 **Mazen Wahed**  
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/mazen-wahed-260826320)  
