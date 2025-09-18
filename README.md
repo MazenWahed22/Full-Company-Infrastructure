@@ -27,7 +27,7 @@ This project simulates a **full company infrastructure** with **two branches (Ca
 ## 🛡️ Security Implementation
 
 * **Access Control Lists (ACLs)** applied for traffic filtering.
-* **ICMP blocking** from specific hosts to the server ( Vlan 2 + PC 6 + PC 7 ) .
+* **ICMP blocking** from specific hosts to the server ( Vlan 2 + 192.168.50.2 + 192.168.50.3 ) .
 * Only **authorized VLANs** allowed access to specific services.
 
 ---
