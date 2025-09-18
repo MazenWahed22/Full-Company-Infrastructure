@@ -10,7 +10,7 @@ This project simulates a **full company infrastructure** with **two branches (Ca
 
 * **Frame Relay** used to connect Cairo & Alexandria branches.
 * Each branch connected via a **router** linked to a **Layer 3 switch**, then to **two Layer 2 switches**.
-* Each Layer 2 switch connects to **two end devices** (total of 8 devices across the whole network).
+* Each Layer 2 switch connects to **two end devices** (total of 9 devices across the whole network).
 
 ---
 
